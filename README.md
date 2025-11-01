@@ -8,7 +8,7 @@ AtliQ Hardware is a leading consumer electronics company known for delivering hi
 
 ## **Project Objective:**
 
-As AtliQ continued to grow, they encountered significant operational challenges, particularly in Latin America, where the company faced considerable losses. The primary issue? AtliQ was relying on outdated Excel spreadsheets to manage their vast data. The goal of this project was to transition the company to a modern data analytics platform—Power BI in order to enable real-time, data-driven decision-making across finance, sales, marketing, and supply chai
+As AtliQ continued to grow, they encountered significant operational challenges, particularly in Latin America, where the company faced considerable losses. The primary issue? AtliQ was relying on outdated Excel spreadsheets to manage their vast data. The goal of this project was to transition the company to a modern data analytics platform—Power BI in order to enable real-time, data-driven decision-making across finance, sales, marketing, and supply chain.
 
 ## **KPIs to Measure Success**
 
